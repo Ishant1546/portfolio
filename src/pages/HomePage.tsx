@@ -1,5 +1,5 @@
 import { Button } from "../components/ui/button";
-import { Code, Users, Folder, Mail } from "lucide-react";
+import { Code, Folder, Mail } from "lucide-react";
 
 const HomePage = () => {
   return (

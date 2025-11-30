@@ -3,6 +3,7 @@ import {
   Server, 
   Bot, 
   Users, 
+  MessagesSquare,
   Globe, 
   ShoppingCart 
 } from "lucide-react";
@@ -36,7 +37,7 @@ const SkillsPage = () => {
     {
       title: "Bot Development",
       description: "Multi-platform bot solutions with AI integration and automation",
-      icon: <Message className="h-8 w-8 text-yellow-400" />,
+      icon: <MessagesSquare className="h-8 w-8 text-yellow-400" />,
       tags: ["Python", "AI", "Automation", "APIs"]
     },
     {

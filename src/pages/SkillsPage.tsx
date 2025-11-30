@@ -3,7 +3,6 @@ import {
   Server, 
   Bot, 
   Users, 
-  Code, 
   Globe, 
   ShoppingCart 
 } from "lucide-react";

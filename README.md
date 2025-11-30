@@ -1,7 +1,5 @@
 # 🎮 DevCraft Portfolio - Minecraft & Discord Developer
 
-![Portfolio Preview](https://placehold.co/800x400/1e293b/6366f1?text=DevCraft+Portfolio+Preview)
-
 A modern, responsive portfolio website for Minecraft and Discord developers showcasing skills, projects, and contact information with a vibrant color scheme.
 
 ## 🌟 Features
@@ -65,48 +63,12 @@ npm install
 yarn install
 ```
 
-3. **🔥 Start the development server**
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-4. **🏗️ Build for production**
+3. **🏗️ Build for production**
 ```bash
 npm run build
 # or
 yarn build
 ```
-
-5. **🌐 Preview production build**
-```bash
-npm run preview
-# or
-yarn preview
-```
-
-## 🛠️ Development Workflow
-
-1. **🎨 Create a new branch for features**
-```bash
-git checkout -b feature/new-feature
-```
-
-2. **💾 Commit your changes**
-```bash
-git add .
-git commit -m "Add new feature"
-```
-
-3. **📤 Push to GitHub**
-```bash
-git push origin feature/new-feature
-```
-
-4. **🔄 Create a Pull Request**
-
-## 📁 Project Structure
 
 ```
 minecraft-portfolio/
@@ -132,128 +94,11 @@ minecraft-portfolio/
 └── 📄 package.json         # Project dependencies
 ```
 
-## ⚙️ Configuration
-
-### 🎨 Tailwind CSS
-Custom configuration in `tailwind.config.js`:
-- Extended color palette with Discord/Minecraft theme
-- Custom spacing and sizing
-- Responsive breakpoints
-
-### 🚀 Vite
-Optimized build settings in `vite.config.ts`:
-- Path aliases for cleaner imports
-- Asset optimization
-- Environment variables support
-
-## 🧪 Testing
-
-### 🖥️ Browser Testing
-- Chrome (primary development browser)
-- Firefox
-- Safari
-- Edge
-
-### 📱 Device Testing
-- iPhone SE to iPhone 14 Pro Max
-- iPad and iPad Pro
-- Android phones and tablets
-- Desktop resolutions from 1080p to 4K
-
-## 🚀 Deployment Options
-
-### 🟦 Netlify
-Deploy to Netlify
-
-### ▲ Vercel
-Deploy with Vercel
-
-### 🐳 Docker Deployment
-```bash
-# Build the image
-docker build -t minecraft-portfolio .
-
-# Run the container
-docker run -p 3000:3000 minecraft-portfolio
-```
-
-### ☁️ Manual Deployment
-1. Build the project: `npm run build`
-2. Upload the `dist/` folder to your hosting provider
-3. Configure your server to serve `index.html` for all routes
-
-## 🔧 Environment Variables
-
-Create a `.env` file in the root directory:
-
-```env
-VITE_APP_TITLE=DevCraft Portfolio
-VITE_APP_DESCRIPTION=Minecraft & Discord Developer Portfolio
-VITE_CONTACT_EMAIL=contact@devcraft.dev
-```
-
-## 📈 Performance Optimization
-
-### 🖼️ Image Optimization
-- Lazy loading for all images
-- WebP format where supported
-- Responsive image sizes
-
-### ⚡ Code Splitting
-- Route-based code splitting
-- Dynamic imports for heavy components
-- Bundle analysis with `npm run analyze`
-
-### 🌐 Caching Strategy
-- Service worker for offline support
-- Cache-first strategy for static assets
-- Network-first for API requests
-
-## 🔒 Security Best Practices
-- Content Security Policy (CSP) headers
-- XSS protection
-- Secure form handling
-- Rate limiting on contact forms
-
-## 🤝 Contributing Guidelines
-
-1. フォーク the repository
-2. ブランチを作成 (`git checkout -b feature/AmazingFeature`)
-3. コミット する (`git commit -m 'Add some AmazingFeature'`)
-4. プッシュ する (`git push origin feature/AmazingFeature`)
-5. プルリクエスト を開く
-
-## 🐛 Reporting Issues
-
-When reporting issues, please include:
-- 📱 Browser and version
-- 🖥️ Operating system
-- 📋 Steps to reproduce
-- 📸 Screenshots if applicable
-- 📦 Error messages
-
-## 🔄 Versioning
-
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-
-## 📜 License Information
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👥 Community & Support
 
-- 📧 Email: support@devcraft.dev
-- 🐦 Twitter: @DevCraftDev
-- 💬 Discord: Join our community
-- 📚 Documentation: docs.devcraft.dev
+- 📧 Email: ishanttalent@gmail.com 
+- 💬 Discord: https://discord.com/@mr.ishantsharma
 
-## 🙏 Acknowledgments
-
-- 🎨 Tailwind CSS for the utility-first framework
-- ⚛️ React for the UI library
-- 🚀 Vite for the build tool
-- 🎭 Lucide Icons for beautiful icons
-- 🎮 Minecraft and Discord communities for inspiration
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />

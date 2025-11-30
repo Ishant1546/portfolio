@@ -8,7 +8,6 @@ import {
   Users, 
   Mail, 
   Play, 
-  Heart,
   ArrowRight
 } from "lucide-react";
 

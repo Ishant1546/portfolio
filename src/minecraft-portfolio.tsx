@@ -14,16 +14,8 @@ import {
   Play, 
   Home, 
   Mail, 
-  Calendar, 
-  Clock,
   Heart,
-  Star,
   Upload,
-  Download,
-  Trash,
-  Edit,
-  Plus,
-  Minus,
   Check,
   ArrowRight
 } from "lucide-react";

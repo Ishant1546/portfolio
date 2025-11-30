@@ -1,9 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import MinecraftPortfolio from './minecraft-portfolio'
+import App from './App'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <MinecraftPortfolio />
+    <App />
   </React.StrictMode>,
 )

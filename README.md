@@ -52,4 +52,4 @@ A modern, responsive portfolio website for Minecraft and Discord developers show
 
 ### Installation
 
-1. **Clone the repository**
+1. **📥 Clone the repository**
